@@ -38,7 +38,7 @@
   "proxy-enabled": false,
   "proxy-port": 80,
   "proxy-type": 0,
-  "ratio-limit": 0.0000,
+  "ratio-limit": 0.0020,
   "ratio-limit-enabled": false,
   "rename-partial-files": true,
   "rpc-authentication-required": true,
